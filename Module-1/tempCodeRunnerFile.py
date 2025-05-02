@@ -1,0 +1,1 @@
+print(type(First_money_int))
