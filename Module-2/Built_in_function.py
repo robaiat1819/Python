@@ -1,0 +1,6 @@
+#higest = max(10,20,30,44,50)
+higest = max([10,20,30,44,50])
+smallest = min(10,20,30,44,50)
+total = sum([1,4,6,7,8,9])
+count = len([45,97])
+print(higest,smallest,total,count)
