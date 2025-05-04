@@ -16,6 +16,22 @@
 # nums = [1,2,3,4,5,6,7,8,9,10]
 # print(range(1,10))
 
+# for i in range(1,10,1):
+#     print(i)
+
+
+
+# for i in range(1,100,1):
+#     if i%2 != 0:
+#         print(i,"is even")
+
+# use for loop , sum to a series 
+sum = 0
 for i in range(1,10,1):
-    print(i)
+    sum= sum+i
+print(sum)
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
